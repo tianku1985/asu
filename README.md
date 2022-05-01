@@ -1,5 +1,5 @@
 # Attendedsysupgrade Server for OpenWrt (GSoC 2017)
-
+openwrt 自动升级
 [![codecov](https://codecov.io/gh/aparcar/asu/branch/master/graph/badge.svg)](https://codecov.io/gh/aparcar/asu)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![PyPi](https://badge.fury.io/py/asu.svg)](https://badge.fury.io/py/asu)
